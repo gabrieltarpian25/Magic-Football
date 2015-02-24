@@ -1,0 +1,1 @@
+DELETE  FROM `products` WHERE `id`>19 and `id`<24

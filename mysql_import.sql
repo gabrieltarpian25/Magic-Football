@@ -1,0 +1,5 @@
+INSERT INTO `products` (`id`, `product_code`, `product_name`, `product_desc`, `product_img_name`, `price`) VALUES
+(40,'PD1040','Chelsea 14/15 Home Soccer Short','Complete your Chelsea fan kit in this official home short. ClimaCool short with elastic drawstring waistband, embroidered Chelsea team crest and adidas logo.7" inseam. 100% polyester.','short1.jpg',45),
+(41,'PD1041','adidas adizero F50 Messi Training Short (Black)','Train brilliantly in adidas adizero F50 Training Short. Inspired by superstar Lionel Messi, this lightweight short from the Messi collection has bonded main seams and leg hem, with Messi sign-off screened at left hem.','short2.jpg',45),
+(42,'PD1042','Argentina 2014 Away Soccer Short','Complete your 2014 Argentina home kit in this official short from adidas.','short3.jpg',45),
+(43,'PD1043','Real Madrid 14/15 Home Soccer Short','Complete your 14/15 Real Madrid kit with the clubs official home short from adidas. ClimaCool short with elastic drawstring waistband, embroidered adidas logo and Real Madrid team crest. 8" inseam. 100% polyester.','short4.jpg',45)
